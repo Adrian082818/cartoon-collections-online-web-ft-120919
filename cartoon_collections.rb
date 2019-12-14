@@ -1,11 +1,11 @@
 def roll_call_dwarves(array)
   index = 0
   array.each_with_index{|name, index| puts "#{index + 1} #{name}"}
-  
   index += 1 
 end 
-
-def summon_captain_planet()
+require 'pry'
+def summon_captain_planet(array)
+  binding.pry
 end
 
 def long_planeteer_calls# code an argument here
