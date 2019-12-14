@@ -5,7 +5,7 @@ def roll_call_dwarves(array)
 end 
 require 'pry'
 def summon_captain_planet(planeteer_calls)
-  binding.pry
+
 end
 
 def long_planeteer_calls# code an argument here
