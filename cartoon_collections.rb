@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(planeteer_calls)
 planeteer_calls.collect{|element| element + "!"}
-element.titleize
+ puts element.titleize
 end
 
 def long_planeteer_calls(calls)
