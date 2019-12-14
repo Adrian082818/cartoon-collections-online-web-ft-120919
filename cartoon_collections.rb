@@ -5,8 +5,7 @@ def roll_call_dwarves(array)
   index += 1 
 end 
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet()
 end
 
 def long_planeteer_calls# code an argument here
